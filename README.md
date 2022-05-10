@@ -30,4 +30,7 @@ Ramiel is another tool made by [MatthewPierson](https://github.com/MatthewPierso
 
 if all went well, your device should have booted into the dual boot partition. have fun with your 2nd OS!
 
+## VERY IMPORTANT!!
+remember to not set a passcode at the 2nd OS!! it will break the booting of the partition. remember also to not erase the content of the 2nd OS from the settings.
+
 **IMPORTANT:** when you will reboot your device, it will revert to the original iOS version. to boot again the 2nd OS, you have to re-jailbreak your device, open Divisé, click on Manage Dualboot, click on Mount the 2nd os, re-put your device in PWNDFU mode, re-open Ramiel and re-do the booting process.
