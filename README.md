@@ -14,6 +14,8 @@ done all this, you’re ready to start! the first thing you have to do is…
 ## 1. JAILBREAK YOUR DEVICE
 for this step, you need to install checkra1n on your mac, and you have to jailbreak your device. you can find checkra1n [here](https://checkra.in/).
 
+
+
 ## 2. DOWNLOAD AND SETUP DIVISÉ
 Divisé is a powerful iOS tweak made by [MatthewPierson](https://github.com/MatthewPierson). it allows you to easily prepare your checkm8 vulnerable device to boot the second OS. download the tweak from the [Dynastic Repo](https://repo.dynastic.co/), open the new Divisé app appeared on your home screen, select the Dual boot option and then, after the explain, click on Download IPSW. you must select an iOS version compatible with your SEP (i know, it’s a big limitation). once you’ve done this, you need to attend the finish of the process (it may take some time), and at the end, click Back on the popup and after click on Dual boot device. give all the needed confirms, and when the process is done, you can finally proceed to boot the second OS! do not click reboot on the popup, but read directly the next step of the process.
 
