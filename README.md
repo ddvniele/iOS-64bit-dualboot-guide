@@ -7,14 +7,14 @@ you can find out if your device is compatible with this procedure based on its c
 
 **IMPORTANT:** on A11 devices (like the iPhone 8(+) or X) a variety of incompatibility problems may occur, like the breaking of the Touch/Face ID. try it at your own risk.
 
-before starting, you also need to verify if the SEP of your iOS version (installed right now) is compatible with the version of iOS you want to dual boot. you can do this checking [this file](https://docs.google.com/spreadsheets/d/1Mb1UNm6g3yvdQD67M413GYSaJ4uoNhLgpkc7YKi3LBs/). finally, the last thing you have to verify is if you’re in a jailbreakkable version of iOS (the highest possible right now is the 15.7.1).
+before starting, you also need to verify if the SEP of your iOS version (installed right now) is compatible with the version of iOS you want to dual boot. you can do this checking [this file](https://docs.google.com/spreadsheets/d/1Mb1UNm6g3yvdQD67M413GYSaJ4uoNhLgpkc7YKi3LBs/). finally, the last thing you have to verify is if you’re in a jailbreakkable version of iOS (the highest possible right now is the 16.2).
 
 done all this, you’re ready to start! the first thing you have to do is…
 
 ## 1. JAILBREAK YOUR DEVICE
 for this step, you need to install checkra1n on your mac, and you have to jailbreak your device. you can find checkra1n [here](https://checkra.in/).
 
-**UPDATE:** to jailbreak iOS 15.x you must use palera1n, cause checkra1n only support iOS 12-14 for now. you can find it [here](https://github.com/palera1n/palera1n).
+**UPDATE:** to jailbreak iOS 15-16 you must use palera1n, cause checkra1n only support iOS 12-14 for now. you can find it [here](https://github.com/palera1n/palera1n).
 
 ## 2. DOWNLOAD AND SETUP DIVISÉ
 Divisé is a powerful iOS tweak made by [MatthewPierson](https://github.com/MatthewPierson). it allows you to easily prepare your checkm8 vulnerable device to boot the second OS. download the tweak from the [Dynastic Repo](https://repo.dynastic.co/), open the new Divisé app appeared on your home screen, select the Dual boot option and then, after the explain, click on Download IPSW. you must select an iOS version compatible with your SEP (i know, it’s a big limitation). once you’ve done this, you need to attend the finish of the process (it may take some time), and at the end, click Back on the popup and after click on Dual boot device. give all the needed confirms, and when the process is done, you can finally proceed to boot the second OS! do not click reboot on the popup, but read directly the next step of the process.
