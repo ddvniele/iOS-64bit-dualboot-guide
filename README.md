@@ -3,7 +3,7 @@ hii, this is a little repo that contains everything you need to dual boot your 6
 
 you can find out if your device is compatible with this procedure based on its chip. you can simply search on internet what is the chip of your device and check if your chip is into this list.
 
-**compatible chips are:** A7(X), A8(X), A9(X), A10(X), A11.
+**compatible chips are:** A7(X), A8(X), A9(X), A10(X), A11. They must be on iOS 14.X or lower.
 
 **IMPORTANT:** on A11 devices (like the iPhone 8(+) or X) a variety of incompatibility problems may occur, like the breaking of the Touch/Face ID. try it at your own risk.
 
