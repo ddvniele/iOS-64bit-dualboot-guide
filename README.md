@@ -1,3 +1,5 @@
+# this repo is now read-only and won't be updated anytime soon. this method is a bit outdated. search online fof more infos.
+
 # 💡 iOS 64 bit dual boot guide (only vulnerable to checkm8 devices are supported)
 hii, this is a little repo that contains everything you need to dual boot your 64 bit iPhone, iPad or iPod Touch with unsigned iOS versions (only vulnerable to checkm8 devices can be dual booted for now) without blobs shsh2. if you want to dual boot a 32 bit device, search for a guide about CoolBooter. this tutorial is valid only for macOS users.
 
