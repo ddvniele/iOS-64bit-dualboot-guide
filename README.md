@@ -1,4 +1,4 @@
-### ⚠️ this method does not work on iOS 15+ and this repo won't be updated anytime soon. ⚠️
+***⚠️ this method does not work on iOS 15+ and this repo won't be updated anytime soon. ⚠️***
 last updated: 18 January 2024
 
 # 💡 iOS 64 bit dual boot guide (only vulnerable to checkm8 devices are supported)
