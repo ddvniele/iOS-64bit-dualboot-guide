@@ -1,11 +1,19 @@
-## ⚠️ this repo is now read-only and won't be updated anytime soon. this method is a bit outdated. search online for more infos. ⚠️
+## ⚠️ this method does not work on iOS 15+ and this repo won't be updated anytime soon. ⚠️
+last updated: 18 January 2024
 
 # 💡 iOS 64 bit dual boot guide (only vulnerable to checkm8 devices are supported)
-hii, this is a little repo that contains everything you need to dual boot your 64 bit iPhone, iPad or iPod Touch with unsigned iOS versions (only vulnerable to checkm8 devices can be dual booted for now) without blobs shsh2. if you want to dual boot a 32 bit device, search for a guide about CoolBooter. this tutorial is valid only for macOS users.
+this is a little repo that contains everything you need to dual boot your 64 bit iPhone, iPad or iPod Touch with unsigned iOS versions (only vulnerable to checkm8 devices can be dual booted for now) without blobs shsh2. if you want to dual boot a 32 bit device, search for a guide about CoolBooter. this tutorial is valid only for macOS users.
+
+## 📮 if you have an unsupported device / iOS version
+note that this method doesn't work on iOS 15+, so this guide won't be updated anymore. despite that, you still have some chances to dualboot your device with other iOS versions:
+- if you're on iOS 15.x you can dualboot with tools like [dualra1n](https://github.com/edwin170/dualra1n) or [seprmvr64](https://github.com/mineek/seprmvr64)
+  - you must have a [compatible chip](#-compatible-chips)
+- if you're on iOS 16+, there are no methods for that right now. i'll try to update this giude whenever will there be a new method.
 
 you can find out if your device is compatible with this procedure based on its chip. you can simply search on internet what is the chip of your device and check if your chip is into this list.
 
-**compatible chips are:** A7(X), A8(X), A9(X), A10(X), A11. They must be on iOS 14.X or lower.
+### compatible chips
+A7(X), A8(X), A9(X), A10(X), A11. They must be on iOS 14.X or lower.
 
 **IMPORTANT:** on A11 devices (like the iPhone 8(+) or X) a variety of incompatibility problems may occur, like the breaking of the Touch/Face ID. try it at your own risk.
 
@@ -15,8 +23,6 @@ done all this, you’re ready to start! the first thing you have to do is…
 
 ## 1. JAILBREAK YOUR DEVICE
 for this step, you need to install checkra1n on your mac, and you have to jailbreak your device. you can find checkra1n [here](https://checkra.in/).
-
-**UPDATE:** checkra1n doesn't work with iOS 15 and newer. also, divisé doesn't work with iOS 15 and newer (with palera1n either). you can search for other tools such as [dualra1n](https://github.com/edwin170/dualra1n).
 
 ## 2. DOWNLOAD AND SETUP DIVISÉ
 Divisé is a powerful iOS tweak made by [MatthewPierson](https://github.com/MatthewPierson). it allows you to easily prepare your checkm8 vulnerable device to boot the second OS. download the tweak from the [Dynastic Repo](https://repo.dynastic.co/), open the new Divisé app appeared on your home screen, select the Dual boot option and then, after the explain, click on Download IPSW. you must select an iOS version compatible with your SEP (i know, it’s a big limitation). once you’ve done this, you need to attend the finish of the process (it may take some time), and at the end, click Back on the popup and after click on Dual boot device. give all the needed confirms, and when the process is done, you can finally proceed to boot the second OS! do not click reboot on the popup, but read directly the next step of the process.
