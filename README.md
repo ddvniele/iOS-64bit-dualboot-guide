@@ -1,4 +1,4 @@
-***⚠️ this method does not work on iOS 15+ and this repo won't be updated anytime soon. ⚠️***
+***⚠️ this method does not work on iOS 15+. more infos below. ⚠️***
 
 last updated: 18 January 2024
 - unarchived the repo to update it (after almost two years lol)
