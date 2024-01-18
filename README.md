@@ -17,7 +17,7 @@ A7(X), A8(X), A9(X), A10(X), A11. They must be on iOS 14.X or lower.
 
 **IMPORTANT:** on A11 devices (like the iPhone 8(+) or X) a variety of incompatibility problems may occur, like the breaking of the Touch/Face ID. try it at your own risk.
 
-before starting, you also need to verify if the SEP of your iOS version (installed right now) is compatible with the version of iOS you want to dual boot. you can do this checking [this file](https://docs.google.com/spreadsheets/d/1Mb1UNm6g3yvdQD67M413GYSaJ4uoNhLgpkc7YKi3LBs/). finally, the last thing you have to verify is if you’re in a jailbreakkable version of iOS (the highest possible right now is the 16.2).
+before starting, you also need to verify if the SEP of your iOS version (installed right now) is compatible with the version of iOS you want to dual boot. you can do this checking [this file](https://docs.google.com/spreadsheets/d/1Mb1UNm6g3yvdQD67M413GYSaJ4uoNhLgpkc7YKi3LBs/). finally, the last thing you have to verify is if you’re in a jailbreakkable version of iOS 14 or older.
 
 done all this, you’re ready to start! the first thing you have to do is…
 
