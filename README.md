@@ -8,7 +8,7 @@ this is a little repo that contains everything you need to dual boot your 64 bit
 note that this method doesn't work on iOS 15+, so this guide won't be updated anymore. despite that, you still have some chances to dualboot your device with other iOS versions:
 - if you're on iOS 15.x you can dualboot with tools like [dualra1n](https://github.com/edwin170/dualra1n) or [seprmvr64](https://github.com/mineek/seprmvr64)
   - you must have a [compatible chip](#compatible-chips)
-- if you're on iOS 16+, there are no methods for that right now. i'll try to update this giude whenever will there be a new method.
+- if you're on iOS 16+, there are no methods for that right now. i'll try to update this giude whenever there will be a new method.
 
 you can find out if your device is compatible with this procedure based on its chip. you can simply search on internet what is the chip of your device and check if your chip is into this list.
 
