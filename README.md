@@ -2,13 +2,16 @@
 last updated: 18 January 2024
 
 # 💡 iOS 64 bit dual boot guide (only vulnerable to checkm8 devices are supported)
-this is a little repo that contains everything you need to dual boot your 64 bit iPhone, iPad or iPod Touch with unsigned iOS versions (only vulnerable to checkm8 devices can be dual booted for now) without blobs shsh2. if you want to dual boot a 32 bit device, search for a guide about CoolBooter. this tutorial is valid only for macOS users.
+this is a little repo that contains everything you need to dual boot your 64 bit iPhone, iPad or iPod Touch with unsigned iOS versions (only vulnerable to checkm8 devices can be dual booted for now) without blobs shsh2. this tutorial is valid only for macOS users.
 
 ## 📮 if you have an unsupported device / iOS version
 note that this method doesn't work on iOS 15+, so this guide won't be updated anymore. despite that, you still have some chances to dualboot your device with other iOS versions:
 - if you're on iOS 15.x you can dualboot with tools like [dualra1n](https://github.com/edwin170/dualra1n) or [seprmvr64](https://github.com/mineek/seprmvr64)
   - you must have a [compatible chip](#compatible-chips)
 - if you're on iOS 16+, there are no methods for that right now. i'll try to update this giude whenever there will be a new method.
+- if you have a device with an unsupported chip ([compatible chips](#compatible-chips) here), you have some options:
+  - if it's A6(X) or older, you can use tools such as [CoolBooter](https://coolbooter.com/)
+  - if it's A12(X) or newer, there are no methods for that right now. i'll try to update this giude whenever there will be a new method.
 
 you can find out if your device is compatible with this procedure based on its chip. you can simply search on internet what is the chip of your device and check if your chip is into this list.
 
