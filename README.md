@@ -1,10 +1,7 @@
 ***⚠️ this method does not work on iOS 15+. more infos below. ⚠️***
 
-last updated: 18 January 2024
-- unarchived the repo to update it (after almost two years lol)
-- added infos for non-compatible devices & iOS versions
-- updated the pwndfu methods (previous linked guide was not available anymore)
-- improved the readability (still a work in progress tho)
+**last update: 02 July 2024**
+i am saddened to announce that this guide won't be updated anytime soon. i tried to do my best in order to update it and give you support for more than 2 years. but as of now, i'm focusing on bigger projects and i don't have time to follow this anymore.
 
 # 💡 iOS 64 bit dual boot guide (only vulnerable to checkm8 devices are supported)
 this is a little repo that contains everything you need to dual boot your 64 bit iPhone, iPad or iPod Touch with unsigned iOS versions (only vulnerable to checkm8 devices can be dual booted for now) without blobs shsh2. this tutorial is valid only for macOS users.
